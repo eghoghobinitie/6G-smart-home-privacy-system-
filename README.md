@@ -4,7 +4,7 @@ The smart home 6G privacy system is a simulated 6G-enabled smart home manager th
 demonstrates the use of environmental context to control the behaviour of connected IoT devices, which then determines the operating mode of the smart home.
 
 
-# Features
+## Features
 - Home, Away, and Emergency operating modes
 - Manual modeswitching
 - Panic alert override
@@ -18,7 +18,7 @@ demonstrates the use of environmental context to control the behaviour of connec
 - Simulated device commands and responses
 
 
-# Technology Used
+## Technology Used
 
 - Python
 - Flask
@@ -28,7 +28,7 @@ demonstrates the use of environmental context to control the behaviour of connec
 - Jinja2
 
 
-# Installation
+## Installation
 
 1. Clone this repository
 2. Install the required packages:
